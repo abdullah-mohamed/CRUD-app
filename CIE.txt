@@ -1,0 +1,11 @@
+This file contains Mans Database
+------------------------------
+
+		Name    : Yasser
+		ID      : 123
+		Subjects: ['Fields', 'DS']
+		Degrees : [99, 99]
+		GPA     : 2.000000
+		Fees    : 1800
+
+-----
